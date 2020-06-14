@@ -1,0 +1,26 @@
+html {  
+    background-color: rgb(172, 168, 168 );
+    background-image: url(img/wood13.jpg) ;
+    background-repeat: round;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+    h1 { 
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+        font-style: italic;
+        color: blue;
+        text-align: center;
+    }
+    li { display:inline-block;
+        margin:5px;
+        border:solid 1px blue;
+        background-color:#b7b3b3;   
+        padding:0.2em 0.6em;
+    ;}
+
+    ul{
+        display:inline-block;
+        border:groove;
+        position:absolute;}
+      

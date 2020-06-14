@@ -1,0 +1,24 @@
+html
+
+    .login-div input
+    {
+        background-color:grey;
+        margin-bottom: 10px;
+        
+    }
+    
+    .login-div {
+        padding:5px;
+        border-top: indigo 2px;
+    }
+    
+.login-div input[type="email"]
+{
+    border: solid 15px;
+    padding-top: 2px;
+    background-color: hotpink;
+}
+
+.login-div button:hover{
+    box-shadow: 3px 0 3px;
+}

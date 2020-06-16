@@ -17,10 +17,10 @@ html {
         border:solid 1px blue;
         background-color:#b7b3b3;   
         padding:0.2em 0.6em;
-    ;}
+    }
 
     ul{
         display:inline-block;
         border:groove;
-        position:absolute;}
+        }
       
